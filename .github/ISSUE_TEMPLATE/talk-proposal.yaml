@@ -1,20 +1,11 @@
----
-name: talk-proposal
-about: Describe this issue template's purpose here.
-title: ''
-labels: proposal
-assignees: Ankush-Chander
-
----
-
 name: Talk Proposal
-description: Create a proposal for your talk at Gandhinagar ML-NLP Meetups. 
+description: Create a proposal for your talk at Gandhinagar ML-NLP meetups. 
 labels: ["proposal"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to share your learnings with the Gandhinagar ML-NLP Community! Please note that all talks are licensed under a [Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+        Thanks for taking the time to share your learnings with the Python Community! Please note that all talks are licensed under a [Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
   - type: input
     id: title
     attributes:
