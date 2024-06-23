@@ -27,6 +27,9 @@ To propose a talk, simply create a github issue [here][new-talk-proposal].
 #### May
 1. Why Generate when you can Discriminate? A Novel Technique for Text Classification using Language Models" by [Nitin Ramrakhiyani](https://nramrakhiyani.wordpress.com/) ([paper](https://aclanthology.org/2024.findings-eacl.74)) | ([slides](https://github.com/Gandhinagar-ML-NLP-Group/talks/blob/main/content/novel_text_classification_nitin_18may.pdf)) | ([video](https://youtu.be/E-jQVWUtO6M))
 2. Efficiently serving LLMs by [Ankush Chander](https://www.linkedin.com/in/ankush-chander) ([notebook](https://github.com/Ankush-Chander/Tech-Talks/blob/main/EfficientLLMInferencing.ipynb)) | ([video](https://youtu.be/43BpQj65rXY))
+#### June
+1. Python and RabbitMQ: A Beginner's Guide to Asynchronous Workflows by [Ahtesham Zaidi](https://www.linkedin.com/in/ahtesham-zaidi-b9a195175) ([video](https://youtu.be/139a5jd7tvk))
+2. Project showcase: obsidian-smart-move-text by [Ankush Chander](https://www.linkedin.com/in/ankush-chander) ([slides](https://github.com/Ankush-Chander/Tech-Talks/blob/main/project-showcase-obsidian-smart-text-mover.md)) | ([video](https://youtu.be/wQe-aL6wMb4))
 
 ---
 
