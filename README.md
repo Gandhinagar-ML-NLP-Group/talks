@@ -17,7 +17,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal].
 2. Long document summarization using LLMs by [Saurabh Pradhan](https://www.linkedin.com/in/saurabh-pradhan) ([video](https://youtu.be/E0JSFNFXV7A?si=O8n3BKdEqPglg8SX))
 
 #### February
-1. Deciphering Large Language Models by [Parth Mehta]() ([slides](https://github.com/Gandhinagar-ML-NLP-Group/talks/blob/main/content/decipheringLLMs_parth.pdf)) | ([video](https://youtu.be/T2eHXovwFzc))
+1. Deciphering Large Language Models by [Parth Mehta](https://www.linkedin.com/in/parthmehta126) ([slides](https://github.com/Gandhinagar-ML-NLP-Group/talks/blob/main/content/decipheringLLMs_parth.pdf)) | ([video](https://youtu.be/T2eHXovwFzc))
 2. High performance python by [Ankush Chander](https://www.linkedin.com/in/ankush-chander) ([video](https://youtu.be/lLYgzk3TIWE?si=ThVIJL6PFsM3SsIG))
 #### March
 1. Graphs and NLP by [Ankush Chander](https://www.linkedin.com/in/ankush-chander) ([slide1](https://github.com/Ankush-Chander/graph-notebooks/blob/main/notebooks/pagerank.ipynb)) | ([slide2](https://github.com/Ankush-Chander/graph-notebooks/blob/main/notebooks/textrank_intro.ipynb)) | ([video](https://youtu.be/n3CxNYKMDxU?si=3d6mFZMs2HELgAnT))
@@ -30,7 +30,9 @@ To propose a talk, simply create a github issue [here][new-talk-proposal].
 #### June
 1. Python and RabbitMQ: A Beginner's Guide to Asynchronous Workflows by [Ahtesham Zaidi](https://www.linkedin.com/in/ahtesham-zaidi-b9a195175) ([video](https://youtu.be/139a5jd7tvk))
 2. Project showcase: obsidian-smart-move-text by [Ankush Chander](https://www.linkedin.com/in/ankush-chander) ([slides](https://github.com/Ankush-Chander/Tech-Talks/blob/main/project-showcase-obsidian-smart-text-mover.md)) | ([video](https://youtu.be/wQe-aL6wMb4))
-
+#### July
+1. Paper discussion: How to think step by step A mechanistic understanding of chain-of-thought reasoning by [Parth Mehta](https://www.linkedin.com/in/parthmehta126) [(slides)](https://github.com/Gandhinagar-ML-NLP-Group/talks/blob/main/content/Mechanistic-LLM_ParthMehta.pdf)
+2. Introduction to Sentence Transformers by [Ankush Chander](https://www.linkedin.com/in/ankush-chander) [(slides)](https://github.com/Ankush-Chander/Tech-Talks/blob/main/sentence_transformers_talk.ipynb)
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/MovingImage" property="dct:title" rel="dct:type">Talks</span> at <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.meetup.com/gandhinagar-machine-learning-and-nlp-group" property="cc:attributionName" rel="cc:attributionURL">Gandhinagar ML-NLP Group Events</a> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License</a>.
