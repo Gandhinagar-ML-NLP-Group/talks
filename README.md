@@ -34,7 +34,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal].
 1. Paper discussion: How to think step by step A mechanistic understanding of chain-of-thought reasoning by [Parth Mehta](https://www.linkedin.com/in/parthmehta126) [(slides)](https://github.com/Gandhinagar-ML-NLP-Group/talks/blob/main/content/Mechanistic-LLM_ParthMehta.pdf)
 2. Introduction to Sentence Transformers by [Ankush Chander](https://www.linkedin.com/in/ankush-chander) [(slides)](https://github.com/Ankush-Chander/Tech-Talks/blob/main/sentence_transformers_talk.ipynb)
 #### August
-1. Introduction to Versioning systems and Git by [Ankush Chander](https://www.linkedin.com/in/ankush-chander) [(Slides)](https://github.com/Ankush-Chander/Tech-Talks/blob/main/Introduction%20to%20Versioning%20systems%20and%20Git.md)
+1. Introduction to Versioning systems and Git by [Ankush Chander](https://www.linkedin.com/in/ankush-chander) [(slides)](https://github.com/Ankush-Chander/Tech-Talks/blob/main/Introduction%20to%20Versioning%20systems%20and%20Git.md) | [(video)](https://youtu.be/A40EMcI2cz8)
 
 --
 
